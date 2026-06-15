@@ -247,4 +247,5 @@ ORDER BY revenue DESC;
 
 **Tida Jaiteh**
 Information Systems Student
-🔗 [GitHub](https://github.com/TidaJaiteh)
+tida3858817@gmail.com
+  www.linkedin.com/in/tida-jaiteh-0092ba346
